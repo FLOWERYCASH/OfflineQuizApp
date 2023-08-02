@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851188544415",
+    "project_id": "offlinequiz-b7935",
+    "storage_bucket": "offlinequiz-b7935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851188544415:android:c1c6a838d3d566f20e43aa",
+        "android_client_info": {
+          "package_name": "com.example.offlinequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851188544415-uovn3ndo6cnnao5oa42a9lavu5r38qbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrHuIZvI-BPho9kh-lNIZzZxJ9W4BFVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851188544415-uovn3ndo6cnnao5oa42a9lavu5r38qbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
