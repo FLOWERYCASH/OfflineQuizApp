@@ -35,5 +35,5 @@ public class QuizResults extends AppCompatActivity {
     public void onBackPressed() {
         startActivity(new Intent(QuizResults.this,MainActivity.class));
         finish();
-    }
+    } 
 }
